@@ -31,5 +31,8 @@
 			"App\\": "app"
 		}
 	},
-	"minimum-stability": "stable"
+	"minimum-stability": "stable",
+    "scripts": {
+        "cycle": "cycle"
+    }
 }
