@@ -4,3 +4,5 @@ extensions:
 cycle:
     dsn: sqlite:%appDir%/database.db
     entityDirectory: %appDir%/Entity
+    cacheDirectory: %appDir%/../temp/cache
+    logger: @logger
